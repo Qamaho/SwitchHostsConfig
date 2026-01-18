@@ -1,2 +1,2 @@
 # SwitchHostsConfig
-屏蔽macOS系统更新的SwitchHosts配置文件
+屏蔽macOS系统更新的SwitchHosts配置文件，点击config.hosts的Raw查看配置地址
