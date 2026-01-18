@@ -1,1 +1,2 @@
 # SwitchHostsConfig
+屏蔽macOS系统更新的SwitchHosts配置文件
