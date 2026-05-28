@@ -1,7 +1,7 @@
-## 屏蔽系统更新  命令行
+## 屏蔽系统更新
 ## sudo launchctl disable system/com.apple.softwareupdated
 
-## Mac Software Update (sysin)
+## Mac Software Update
 127.0.0.1 swdist.apple.com
 127.0.0.1 swscan.apple.com
 127.0.0.1 swcdn.apple.com
